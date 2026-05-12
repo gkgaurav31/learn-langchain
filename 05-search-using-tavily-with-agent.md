@@ -1,5 +1,7 @@
 # USING TAVILY TO SEARCH THE INTERNET - INTEGRATED WITH AGENT TOOL CALLING
 
+This example uses: Tavily: https://www.tavily.com/ (You can get a free API key after sign-up)
+
 ```python
 from urllib import response
 
